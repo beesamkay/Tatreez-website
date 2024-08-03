@@ -1,0 +1,106 @@
+.image-3-icon16 {
+  position: absolute;
+  top: 721px;
+  left: 64px;
+  width: 563px;
+  height: 187px;
+  object-fit: cover;
+  display: none;
+}
+.symbols-of1 {
+  margin: 0;
+}
+.symbols-of-al-container3 {
+  width: 100%;
+}
+.symbols-of-al-container2 {
+  margin: 0;
+  position: absolute;
+  height: 17.3%;
+  width: 48.17%;
+  top: 69.87%;
+  left: 46.41%;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.content-child,
+.designs-icon5 {
+  position: absolute;
+  top: -923px;
+  left: -432px;
+  width: 2235.7px;
+  height: 1333.5px;
+}
+.designs-icon5 {
+  top: 230px;
+  left: 56px;
+  width: 477px;
+  height: 478px;
+  overflow: hidden;
+  z-index: 1;
+}
+.side-menu-child21,
+.side-menu-child22,
+.side-menu-child23 {
+  position: absolute;
+  height: 27.27%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 72.73%;
+  left: 0;
+  background-color: var(--color-white);
+  border: 0.3px solid var(--color-navajowhite);
+  box-sizing: border-box;
+}
+.side-menu-child22,
+.side-menu-child23 {
+  top: 36.36%;
+  bottom: 36.36%;
+}
+.side-menu-child23 {
+  top: 72.73%;
+  bottom: 0;
+}
+.side-menu13 {
+  position: absolute;
+  top: 20px;
+  left: 1298px;
+  width: 45px;
+  height: 33px;
+  cursor: pointer;
+  z-index: 1;
+}
+.content1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 708px;
+}
+.symbols-of-al-khalil-3 {
+  width: 100%;
+  height: 1029px;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  font-size: var(--font-size-81xl);
+  color: var(--color-white);
+  font-family: var(--font-alfa-slab-one);
+}
+@media screen and (max-width: 767px) {
+  .symbols-of-al-container2 {
+    font-size: var(--font-size-31xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .symbols-of-al-container2 {
+    font-size: var(--font-size-11xl);
+  }
+}

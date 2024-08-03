@@ -1,0 +1,571 @@
+.image-3-icon1 {
+  position: absolute;
+  top: 721px;
+  left: 64px;
+  width: 563px;
+  height: 187px;
+  object-fit: cover;
+  display: none;
+}
+.a {
+  text-decoration: none;
+  position: absolute;
+  top: -608px;
+  left: 514px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.hebron,
+.welcome1 {
+  position: relative;
+  flex-shrink: 0;
+}
+.welcome1 {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+}
+.hebron {
+  height: 22.2px;
+  width: 22.2px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+}
+.hebron-wrapper {
+  width: 235px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.welcome-group,
+.welcome-page-child {
+  position: absolute;
+  box-sizing: border-box;
+}
+.welcome-group {
+  top: 0;
+  left: 267px;
+  width: 833px;
+  height: 1029px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-448xl) 0 var(--padding-542xl);
+  gap: 1822px;
+  max-width: 100%;
+  font-size: var(--font-size-121xl);
+}
+.welcome-page-child {
+  height: 0.1%;
+  width: 36.53%;
+  top: 76%;
+  right: 110.1%;
+  bottom: 23.91%;
+  left: -46.63%;
+  border-top: 1px solid var(--color-white);
+  z-index: 1;
+}
+.jaffa {
+  width: 52.6px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.ramallah-parent-child {
+  width: 499px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ramallah {
+  width: 93px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.frame-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.line-wrapper,
+.ramallah-group {
+  flex: 1;
+  display: flex;
+  max-width: 100%;
+}
+.line-wrapper {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-8xs);
+  box-sizing: border-box;
+  min-width: 324px;
+}
+.ramallah-group {
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.ramallah-parent-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.jaffa-parent,
+.ramallah-parent,
+.ramallah-parent-inner,
+.ramallah-parent-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.ramallah-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-17xl);
+}
+.jaffa-parent,
+.ramallah-parent-wrapper {
+  box-sizing: border-box;
+}
+.ramallah-parent-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-7xl) 0 0;
+  min-width: 396px;
+  color: var(--color-white);
+}
+.jaffa-parent {
+  width: 687px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 0 0 var(--padding-xl);
+  gap: var(--gap-8xs-4);
+}
+.gaza {
+  align-self: stretch;
+  position: relative;
+}
+.gaza-wrapper {
+  width: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xl) 0 0;
+  box-sizing: border-box;
+}
+.hebron1 {
+  width: 74px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.hebron-parent {
+  width: 596px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+}
+.frame-parent1,
+.frame-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.frame-parent1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.al-khalil,
+.al-khalil-parent {
+  display: flex;
+  justify-content: center;
+}
+.al-khalil {
+  width: 98px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+}
+.al-khalil-parent {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+}
+.frame-wrapper2 {
+  width: 630px;
+  flex-direction: row;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  color: var(--color-white);
+}
+.frame-container,
+.frame-div,
+.frame-wrapper,
+.frame-wrapper2,
+.jaffa-parent-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-div {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-30xl);
+  min-width: 437px;
+}
+.frame-container,
+.frame-wrapper,
+.jaffa-parent-parent {
+  flex-direction: row;
+}
+.frame-container {
+  width: 748px;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+}
+.frame-wrapper,
+.jaffa-parent-parent {
+  align-self: stretch;
+}
+.jaffa-parent-parent {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-52xl);
+}
+.beersheba {
+  margin: 0;
+}
+.beersheba-sinai-container {
+  height: 72px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.frame-group,
+.south-locations {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.south-locations {
+  width: 193.1px;
+  flex-direction: row;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+  text-align: left;
+}
+.frame-group {
+  margin-left: -775px;
+  width: 772px;
+  flex-direction: column;
+  gap: var(--gap-37xl);
+  flex-shrink: 0;
+  max-width: calc(100% - 594px);
+}
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.gaza1,
+.hebron2,
+.jaffa1,
+.ramallah1 {
+  position: absolute;
+  top: 1104.6px;
+  left: 181.2px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 22.2px;
+  height: 22.2px;
+  z-index: 1;
+}
+.gaza1,
+.hebron2,
+.ramallah1 {
+  top: 1292.9px;
+  left: 75.9px;
+}
+.hebron2,
+.ramallah1 {
+  top: 1272.8px;
+  left: 249.1px;
+}
+.ramallah1 {
+  top: 1166.9px;
+  left: 294.8px;
+}
+.vector-parent {
+  position: absolute;
+  top: -75px;
+  left: 0;
+  width: 488.9px;
+  height: 1317.9px;
+}
+.click-here {
+  position: absolute;
+  top: 579px;
+  left: 134.9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 1;
+}
+.frame-parent2 {
+  align-self: stretch;
+  height: 1029px;
+  position: relative;
+  flex-shrink: 0;
+}
+.layer-1,
+.sinai-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sinai-wrapper {
+  width: 340.2px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.layer-1 {
+  position: absolute;
+  top: 0;
+  left: 786px;
+  width: 489px;
+  height: 1318px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 75px 0 214px;
+  gap: 356.4px;
+  z-index: 2;
+}
+.group-icon,
+.layer-1-icon2 {
+  position: absolute;
+  top: -923px;
+  left: -432px;
+  width: 2235.7px;
+  height: 1333.5px;
+}
+.layer-1-icon2 {
+  top: -46px;
+  left: 767px;
+  width: 468px;
+  height: 1261px;
+  overflow: hidden;
+  z-index: 1;
+}
+.sound-icon1 {
+  position: absolute;
+  top: 965.4px;
+  left: 51px;
+  width: 44px;
+  height: 33.4px;
+}
+.side-menu-child,
+.side-menu-inner,
+.side-menu-item {
+  position: absolute;
+  height: 27.27%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 72.73%;
+  left: 0;
+  background-color: var(--color-white);
+  border: 0.3px solid var(--color-navajowhite);
+  box-sizing: border-box;
+}
+.side-menu-inner,
+.side-menu-item {
+  top: 36.36%;
+  bottom: 36.36%;
+}
+.side-menu-inner {
+  top: 72.73%;
+  bottom: 0;
+}
+.side-menu {
+  position: absolute;
+  top: 20px;
+  left: 1298px;
+  width: 45px;
+  height: 33px;
+  cursor: pointer;
+  z-index: 1;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  width: 1366px;
+  height: 1029px;
+}
+.layer-1-parent {
+  margin-bottom: -419px;
+  height: 1318px;
+  width: 1366px;
+  position: relative;
+  flex-shrink: 0;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-bodoni-moda);
+}
+.frame-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 399px 0 var(--padding-186xl);
+  box-sizing: border-box;
+  gap: var(--gap-10xs);
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgreen);
+  font-family: var(--font-aref-ruqaa);
+}
+.welcome-page1 {
+  width: 100%;
+  height: 1029px;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-141xl);
+  color: var(--color-red-200);
+  font-family: var(--font-alfa-slab-one);
+}
+@media screen and (max-width: 1350px) {
+  .frame-group {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .frame-group {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .a {
+    font-size: var(--font-size-45xl);
+  }
+  .welcome1 {
+    font-size: var(--font-size-37xl);
+  }
+  .ramallah-group {
+    flex-wrap: wrap;
+  }
+  .ramallah-parent {
+    gap: var(--gap-lg);
+  }
+  .al-khalil-parent,
+  .hebron-parent {
+    flex-wrap: wrap;
+  }
+  .frame-div {
+    gap: var(--gap-5xl);
+    min-width: 100%;
+  }
+  .jaffa-parent-parent {
+    gap: var(--gap-16xl);
+  }
+  .frame-group {
+    max-width: 100%;
+  }
+  .frame-parent {
+    height: auto;
+  }
+  .welcome-page1 {
+    height: auto;
+    min-height: 1029;
+  }
+}
+@media screen and (max-width: 450px) {
+  .a {
+    font-size: var(--font-size-21xl);
+  }
+  .welcome1 {
+    font-size: var(--font-size-16xl);
+  }
+  .jaffa,
+  .ramallah {
+    font-size: var(--font-size-base);
+  }
+  .ramallah-parent-wrapper {
+    min-width: 100%;
+  }
+  .al-khalil,
+  .gaza,
+  .hebron1 {
+    font-size: var(--font-size-base);
+  }
+  .jaffa-parent-parent {
+    gap: var(--gap-lg);
+  }
+  .beersheba-sinai-container {
+    font-size: var(--font-size-base);
+  }
+  .frame-group {
+    gap: var(--gap-9xl);
+    max-width: 100%;
+  }
+  .click-here {
+    font-size: var(--font-size-lgi);
+  }
+}

@@ -1,0 +1,77 @@
+.frame-child87,
+.frame-child88 {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+  z-index: 1;
+}
+.frame-child87 {
+  align-self: stretch;
+  height: 111px;
+  flex-shrink: 0;
+}
+.frame-child88 {
+  height: 109.9px;
+  flex: 1;
+}
+.rectangle-wrapper3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-2xs-2);
+}
+.frame-child89 {
+  height: 110.9px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangle-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.frame-child90 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.frame-parent62 {
+  flex-direction: column;
+  gap: var(--gap-10xl-1);
+}
+.frame-parent62,
+.frame-wrapper21,
+.rectangle-parent17 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper21 {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.rectangle-parent17 {
+  flex-direction: column;
+  gap: var(--gap-15xl-8);
+}
+@media screen and (max-width: 450px) {
+  .rectangle-parent17 {
+    gap: var(--gap-mid);
+  }
+}

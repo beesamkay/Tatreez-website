@@ -1,0 +1,76 @@
+.tatreez-of4 {
+  margin: 0;
+}
+.tatreez-of-ramallah-container4 {
+  margin: 0;
+  height: 178px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.key-icon21 {
+  width: 100%;
+  height: 206.4px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: -43.4px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  cursor: pointer;
+  z-index: 2;
+}
+.back9 {
+  position: relative;
+  display: inline-block;
+  min-width: 43px;
+  z-index: 3;
+}
+.key-parent8,
+.tatreez-of-ramallah-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.key-parent8 {
+  width: 202.2px;
+  margin: 0 !important;
+  position: absolute;
+  right: 93.8px;
+  bottom: -132px;
+  flex-direction: column;
+  padding: var(--padding-67xl) var(--padding-xl) var(--padding-36xl)
+    var(--padding-11xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.tatreez-of-ramallah-parent {
+  width: 658px;
+  flex-direction: row;
+  position: relative;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: right;
+  font-size: var(--font-size-81xl);
+  color: var(--color-white);
+  font-family: var(--font-alfa-slab-one);
+}
+@media screen and (max-width: 1050px) {
+  .tatreez-of-ramallah-container4 {
+    font-size: var(--font-size-31xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .tatreez-of-ramallah-container4 {
+    font-size: var(--font-size-11xl);
+  }
+}

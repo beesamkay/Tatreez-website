@@ -1,0 +1,296 @@
+.jaffa4 {
+  width: 52.6px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.frame-child74 {
+  width: 499px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ramallah12 {
+  width: 93px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.frame-child75 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.line-wrapper1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-8xs);
+  box-sizing: border-box;
+  min-width: 324px;
+  max-width: 100%;
+}
+.ramallah-container {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  max-width: 100%;
+}
+.frame-wrapper13 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.frame-wrapper12,
+.frame-wrapper13,
+.jaffa-container,
+.line-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.line-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-17xl);
+}
+.frame-wrapper12,
+.jaffa-container {
+  box-sizing: border-box;
+}
+.frame-wrapper12 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-7xl) 0 0;
+  min-width: 396px;
+  color: var(--color-white);
+}
+.jaffa-container {
+  width: 687px;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-xl);
+  gap: var(--gap-8xs-4);
+}
+.gaza4 {
+  align-self: stretch;
+  position: relative;
+}
+.gaza-frame {
+  width: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xl) 0 0;
+  box-sizing: border-box;
+}
+.hebron6 {
+  width: 74px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.hebron-container {
+  width: 596px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+}
+.frame-parent49,
+.frame-wrapper15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.frame-parent49 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.al-khalil-container,
+.al-khalil9 {
+  display: flex;
+  justify-content: center;
+}
+.al-khalil9 {
+  width: 98px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+}
+.al-khalil-container {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+}
+.frame-wrapper16 {
+  width: 630px;
+  flex-direction: row;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  color: var(--color-white);
+}
+.frame-parent46,
+.frame-parent47,
+.frame-parent48,
+.frame-wrapper14,
+.frame-wrapper16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent48 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-30xl);
+  min-width: 437px;
+}
+.frame-parent46,
+.frame-parent47,
+.frame-wrapper14 {
+  flex-direction: row;
+}
+.frame-parent47 {
+  width: 748px;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+}
+.frame-parent46,
+.frame-wrapper14 {
+  align-self: stretch;
+}
+.frame-parent46 {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-52xl);
+}
+.beersheba2 {
+  margin: 0;
+}
+.beersheba-sinai-container2 {
+  height: 72px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.beersheba-sinai-wrapper {
+  width: 193.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+  text-align: left;
+}
+.frame-parent45,
+.location-gaza-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-parent45 {
+  align-self: stretch;
+  gap: var(--gap-37xl);
+}
+.location-gaza-bottom {
+  margin-left: -775px;
+  width: 772px;
+  padding: 0 0 var(--padding-186xl);
+  box-sizing: border-box;
+  min-width: 772px;
+  min-height: 630px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgreen);
+  font-family: var(--font-aref-ruqaa);
+}
+@media screen and (max-width: 1350px) {
+  .location-gaza-bottom {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .location-gaza-bottom {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .ramallah-container {
+    flex-wrap: wrap;
+  }
+  .line-parent {
+    gap: var(--gap-lg);
+  }
+  .al-khalil-container,
+  .hebron-container,
+  .jaffa-container {
+    flex-wrap: wrap;
+  }
+  .frame-parent48 {
+    gap: var(--gap-5xl);
+    min-width: 100%;
+  }
+  .frame-parent47 {
+    flex-wrap: wrap;
+  }
+  .frame-parent46 {
+    gap: var(--gap-16xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .jaffa4,
+  .ramallah12 {
+    font-size: var(--font-size-base);
+  }
+  .frame-wrapper12 {
+    min-width: 100%;
+  }
+  .al-khalil9,
+  .gaza4,
+  .hebron6 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent46 {
+    gap: var(--gap-lg);
+  }
+  .beersheba-sinai-container2 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent45 {
+    gap: var(--gap-9xl);
+  }
+}

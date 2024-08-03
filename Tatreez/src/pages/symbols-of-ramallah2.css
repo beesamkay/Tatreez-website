@@ -1,0 +1,257 @@
+.background1,
+.image-3-icon17 {
+  position: relative;
+  max-width: 100%;
+}
+.image-3-icon17 {
+  width: 563px;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.background1 {
+  margin-top: -429px;
+  margin-bottom: 176px;
+  width: 353px;
+  height: 56px;
+  background-color: var(--color-darkgreen);
+  flex-shrink: 0;
+  z-index: 1;
+}
+.a24,
+.wrapper17 {
+  display: flex;
+  flex-shrink: 0;
+}
+.a24 {
+  text-decoration: none;
+  height: 30px;
+  flex: 1;
+  position: relative;
+  color: inherit;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(-89.7deg);
+  z-index: 1;
+}
+.wrapper17 {
+  width: 178.4px;
+  height: 86px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) 0 var(--padding-55xl);
+  box-sizing: border-box;
+}
+.cypress-tree-image {
+  height: 56px;
+  width: 333px;
+  position: absolute;
+  margin: 0 !important;
+  top: -22px;
+  left: -189px;
+  background-color: var(--color-darkgreen);
+  z-index: 0;
+}
+.a25 {
+  text-decoration: none;
+  height: 35px;
+  flex: 1;
+  position: relative;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.cypress-tree,
+.cypress-tree-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.cypress-tree-content {
+  width: 137px;
+  justify-content: flex-start;
+  position: relative;
+}
+.cypress-tree {
+  width: 515px;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.designs-background {
+  height: 43px;
+  width: 25px;
+  position: absolute;
+  margin: 0 !important;
+  right: 17px;
+  bottom: 99px;
+  border-radius: var(--br-18xl);
+  background-color: var(--color-red-100);
+}
+.design-shapes-icon,
+.design-shapes-icon1 {
+  position: absolute;
+  top: -842.4px;
+  left: 126px;
+  width: 339.8px;
+  height: 111.2px;
+  object-fit: contain;
+}
+.design-shapes-icon1 {
+  top: -253.3px;
+  left: 126.8px;
+}
+.design-shapes-icon2,
+.design-shapes-icon3 {
+  position: absolute;
+  top: -186.1px;
+  left: 128.2px;
+  width: 339.7px;
+  height: 111px;
+  object-fit: contain;
+  z-index: 1;
+}
+.design-shapes-icon3 {
+  top: -329.6px;
+  left: 126.6px;
+}
+.design-shapes-icon4,
+.design-shapes-icon5 {
+  position: absolute;
+  top: -467.6px;
+  left: 126.9px;
+  width: 339.8px;
+  height: 111.6px;
+  object-fit: contain;
+}
+.design-shapes-icon5 {
+  top: -610px;
+  left: 127.3px;
+}
+.designs-icon6 {
+  position: absolute;
+  top: -852px;
+  left: 117px;
+  width: 357px;
+  height: 409px;
+  overflow: hidden;
+  z-index: 1;
+}
+.design-elements-child {
+  position: absolute;
+  top: 232px;
+  left: 46px;
+  width: 436px;
+  height: 436px;
+}
+.design-elements-item {
+  position: absolute;
+  top: -923px;
+  left: -432px;
+  width: 2235.7px;
+  height: 1333.5px;
+  z-index: 4;
+}
+.side-menu-icons,
+.side-menu-icons1,
+.side-menu-icons2 {
+  position: absolute;
+  height: 27.27%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 72.73%;
+  left: 0;
+  background-color: var(--color-white);
+  border: 0.3px solid var(--color-navajowhite);
+  box-sizing: border-box;
+}
+.side-menu-icons1,
+.side-menu-icons2 {
+  top: 36.36%;
+  bottom: 36.36%;
+}
+.side-menu-icons2 {
+  top: 72.73%;
+  bottom: 0;
+}
+.side-menu14 {
+  position: absolute;
+  top: 20px;
+  left: 1298px;
+  width: 45px;
+  height: 33px;
+  cursor: pointer;
+  z-index: 5;
+}
+.design-elements {
+  height: 668px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.designs,
+.rooster3,
+.symbols-of-ramallah-4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.designs {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  max-width: 100%;
+}
+.rooster3,
+.symbols-of-ramallah-4 {
+  flex-direction: column;
+}
+.rooster3 {
+  align-self: stretch;
+  height: 675px;
+  padding: 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+  gap: 9px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.symbols-of-ramallah-4 {
+  width: 100%;
+  height: 1029px;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  gap: 23px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-abhaya-libre-medium);
+}
+@media screen and (max-width: 1125px) {
+  .rooster3,
+  .symbols-of-ramallah-4 {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .a24,
+  .a25 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .a24,
+  .a25 {
+    font-size: var(--font-size-lg);
+  }
+}

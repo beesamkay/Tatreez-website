@@ -1,0 +1,309 @@
+.a40,
+.a41 {
+  text-decoration: none;
+  width: 75.5px;
+  height: 27.8px;
+  position: relative;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transform: rotate(-89.8deg);
+}
+.a41 {
+  height: 34.7px;
+  width: 67.2px;
+}
+.rooster-name-arabic {
+  align-self: stretch;
+  height: 67.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.a42,
+.a43 {
+  text-decoration: none;
+  width: 69.3px;
+  height: 28.7px;
+  position: relative;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transform: rotate(-89.7deg);
+}
+.a43 {
+  height: 29.5px;
+  width: 67.4px;
+}
+.rooster-description-arabic {
+  align-self: stretch;
+  height: 67.5px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.parent5,
+.rooster-description-arabic,
+.rooster-description1 {
+  display: flex;
+  align-items: flex-start;
+}
+.parent5 {
+  align-self: stretch;
+  width: 31.9px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-5xs-6);
+}
+.rooster-description1 {
+  height: 149.3px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) var(--padding-8xs-8) var(--padding-10xs);
+  box-sizing: border-box;
+}
+.a44 {
+  text-decoration: none;
+  height: 27.9px;
+  width: 68.7px;
+  position: relative;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transform: rotate(-89.7deg);
+}
+.rooster-origin {
+  align-self: stretch;
+  height: 68.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.rooster-name-english {
+  align-self: stretch;
+  width: 36px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-50xl-7);
+}
+.a45,
+.rooster5 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+}
+.rooster5 {
+  flex: 1;
+  z-index: 2;
+}
+.a45 {
+  align-self: stretch;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+}
+.rooster-image-arabic {
+  width: 51px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xl) 0 0;
+  box-sizing: border-box;
+  margin-left: -51px;
+}
+.rooster-image-details-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 5;
+}
+.cypres-tree5,
+.rooster-image-details {
+  align-self: stretch;
+  position: relative;
+  display: flex;
+}
+.rooster-image-details {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-127xl) var(--padding-21xl) var(--padding-244xl)
+    var(--padding-64xl);
+}
+.cypres-tree5 {
+  text-decoration: none;
+  flex: 1;
+  color: inherit;
+  align-items: center;
+  justify-content: center;
+}
+.cypress-tree-description {
+  align-self: stretch;
+  height: 35px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xl);
+  box-sizing: border-box;
+}
+.cypress-tree-description,
+.rooster-image-content,
+.rooster-image1,
+.rooster-name1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rooster-image-content {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-lg);
+}
+.rooster-image1,
+.rooster-name1 {
+  flex: 1;
+}
+.rooster-image1 {
+  flex-direction: column;
+  padding: var(--padding-smi) 0 0;
+}
+.rooster-name1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-18xl);
+}
+.rooster-name-wrapper {
+  height: 583px;
+  width: 292px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-smi-2);
+  box-sizing: border-box;
+  min-width: 292px;
+}
+.colours-of6 {
+  margin: 0;
+}
+.colours-of-ramallah-container9 {
+  width: 100%;
+}
+.colours-of-ramallah-container8 {
+  margin: 0;
+  width: 658px;
+  position: relative;
+  font-size: var(--font-size-81xl);
+  font-weight: 400;
+  font-family: var(--font-alfa-slab-one);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 658px;
+  max-width: 100%;
+}
+.rooster-content,
+.rooster-details {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.rooster-details {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.rooster-content {
+  margin-top: -592px;
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-55xl) 0 var(--padding-52xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-abhaya-libre-medium);
+}
+@media screen and (max-width: 1125px) {
+  .colours-of-ramallah-container8,
+  .rooster-name-wrapper {
+    flex: 1;
+  }
+  .rooster-details {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .a40,
+  .a41,
+  .a42,
+  .a43,
+  .a44,
+  .a45,
+  .cypres-tree5,
+  .rooster5 {
+    font-size: var(--font-size-5xl);
+  }
+  .colours-of-ramallah-container8 {
+    font-size: var(--font-size-31xl);
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .rooster-image-details {
+    padding-top: var(--padding-76xl);
+    padding-bottom: var(--padding-152xl);
+    box-sizing: border-box;
+  }
+  .rooster-content {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .a40,
+  .a41,
+  .a42,
+  .a43,
+  .a44,
+  .a45,
+  .cypres-tree5,
+  .rooster5 {
+    font-size: var(--font-size-lg);
+  }
+  .rooster-name1 {
+    gap: var(--gap-lg);
+  }
+  .colours-of-ramallah-container8 {
+    font-size: var(--font-size-11xl);
+  }
+}

@@ -1,0 +1,84 @@
+.frame-child80 {
+  height: 111.6px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangle-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child81 {
+  z-index: 1;
+}
+.frame-child81,
+.frame-child82 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.rectangle-parent14 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xl-4);
+}
+.frame-child83 {
+  height: 111px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.rectangle-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.shape-element-icon {
+  align-self: stretch;
+  height: 111.2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.frame-parent58 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl-9);
+  max-width: calc(100% - 55px);
+}
+@media screen and (max-width: 450px) {
+  .frame-parent58 {
+    gap: var(--gap-mini);
+  }
+}
